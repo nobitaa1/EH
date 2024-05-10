@@ -1,0 +1,23 @@
+Network traffic capture and traffic and denial of service attack 
+
+
+download wireshark
+
+capture then stop 
+then select one of the packet right click then converstations
+then go to statistics then again conversations 
+you get the answer
+
+
+DOS
+cmd :
+ 3 4 times in both
+1. ping -t -l 65500 scanme.nmap.org
+2. Copy address ip
+3. ping -t -l 65500 43.33.32.156
+
+
+for kali Linux
+1. sudo su
+2.give password
+3.hping3 -V -c 100 d 100 scanme.nmap.org

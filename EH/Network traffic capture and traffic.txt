@@ -1,0 +1,9 @@
+Network traffic capture and traffic and denial of service attack 
+
+
+download wireshark
+
+capture then stop 
+then select one of the packet right click then converstations
+then go to statistics then again conversations 
+you get the answer

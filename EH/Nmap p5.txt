@@ -1,0 +1,23 @@
+Nmap
+
+1. nmap -v scanme.nmap.org
+
+2. ACK scan :
+nmap -sA -T4 scanme.nmap.org
+
+3.PORT scan
+nmap -sA -T4 scanme.nmap.org
+
+4.SYN scan
+nmap -sS scanme.nmap.com.org
+
+5. FIN scan
+nmap -sF -T4 192.168.2.1
+
+
+6. Null Scan 
+nmap -sN -p22 scanme.nmap.org
+
+7. XMAS Scan
+nmap -sX -T4 scanme.nmap.org
+

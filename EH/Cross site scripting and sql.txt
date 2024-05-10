@@ -1,0 +1,7 @@
+Cross site scripting and Sql injection 
+
+1. just go to hacksplanning then cross site then enter eneter to the arrow 
+
+
+2. Go to vulnweb.com
+go to testphp.vulnweb link then go to search and type     <script>alert("I am malicious")</script>

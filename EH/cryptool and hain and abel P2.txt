@@ -1,0 +1,8 @@
+practical 2 
+
+Cryptool and chain and abel 
+
+
+cryptool make the file and encrypt with RC4 and do the reverse 
+
+

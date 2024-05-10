@@ -1,0 +1,32 @@
+practical 2 
+
+Cryptool and chain and abel 
+
+
+cryptool make the file and encrypt with RC4 and do the reverse 
+
+
+=====================
+Cain and abel 
+
+
+activate sniffers first by 
+1. click on sniffers then configure..then scan...then plus then activate if not activated
+
+
+orrrrr
+
+Go to tools
+click on hash calculator 
+write the text eg Desktop
+then copy MD5
+then click on cracker 
+then go MD5 hash then then click on plus sign then paste the hash
+the right click on it 
+then dictionary attack 
+then test the pasword
+then select the file 
+then start the hash 
+
+
+

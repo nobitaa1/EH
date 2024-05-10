@@ -1,0 +1,15 @@
+practical 1 
+
+Google and who is 
+
+1.ping google.com
+2.All six google search operators 
+inurl
+allurl
+site 
+blogurl
+intitle
+allintitle
+
+3.Whois : download whois file then unzip it and run cmd in the path 
+whois google.com

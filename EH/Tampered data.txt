@@ -1,0 +1,11 @@
+in firefox
+
+
+1. Go to techpanda.org 
+2. Give email and pwd
+3. Copy the value 
+4.Go to Tamper data
+5. on tamper data
+6.Close the first tab
+7.go to techpanda.org/index.php
+8.See the header copy and paste twice then its done 

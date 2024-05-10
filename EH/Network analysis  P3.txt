@@ -1,0 +1,12 @@
+Network analysis and arp poisoining 
+
+
+Network analysis :
+ipconfig
+ipconfig/displaydns
+ipconfig/release
+ping google.com
+netstat
+tracert facebook.com
+ping facebook.com
+ping Netflix.com
